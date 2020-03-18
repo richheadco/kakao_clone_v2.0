@@ -10,6 +10,7 @@
 @import "find.css";
 @import "more.css";
 @import "settings.css";
+@import "chat.css";
 
 /* padding을 추가할떄 box가 그만큼 커지지 않게하는(overcompensate) 작업 */
 /* 박스 크기에 padding을 추가하게 되면 그만큼 박스가 커지게 된다. */
